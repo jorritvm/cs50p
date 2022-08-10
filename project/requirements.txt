@@ -1,0 +1,2 @@
+pydealer-1.4.0
+cowsay-5.0
